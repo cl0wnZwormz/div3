@@ -1,0 +1,37 @@
+vertical {
+    direction: column;
+}
+
+horizontal {
+    direction: row;
+}
+
+center {
+    align-items: center;
+}
+
+right {
+    align-items: end;
+}
+
+left {
+    align-items: start;
+}
+
+nowrap {
+    wrap: nowrap;
+}
+
+wrap {
+    wrap: wrap
+}
+
+logo {
+    font-weight: bold;
+    color: #FF99C8;
+}
+
+logo_icon {
+    font-weight: bold;
+    color: #FCF6BD;
+}
